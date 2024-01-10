@@ -1,6 +1,6 @@
 # What is this?
 This is a simple script for obtaining words from a youtube video or .PDF, sorting them by frequency, translate them and getting a sample sentence.
-A csv is generated, so you can export it into anki or do whatever you wish with it.
+A csv is generated, so you can import it into anki or do whatever you wish with it.
 Column meanings:
 "Word" Is the word in your target language.
 "Frequency" Is the number of times the word appeared in the whole text or subtitles.
