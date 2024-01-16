@@ -8,13 +8,10 @@ Column meanings:
 "Context" Is a sample sentence in your target language that comes from the original text.
 
 # Does this works with x language?
-This was only tested with German and English.
-
-# Can I use this for a whole novel?
-Yes, it will work just fine.
+This was only tested with German, Korean and English.
 
 # Requirements
-You need to install python.
+You'll need to install python.
 Then install the required packages with the following command:
 `pip install pdfquery youtube_transcript_api deep_translator pandas numpy`
 # Use
